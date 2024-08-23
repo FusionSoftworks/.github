@@ -27,7 +27,7 @@ Welcome to **Fusion Softworks**! We’re a passionate team dedicated to crafting
 We’d love to hear from you! Whether you have questions, need support, or just want to share feedback, feel free to reach out through the following channels:
 
 - **Email:** [fusionsoftworks@proton.me](mailto:fusionsoftworks@proton.me)
-- **Website:** [Our site!](https://get-fusion.com)
+- **Website:** [Visit our site!](https://get-fusion.com)
 - **Discord:** [Join our server](https://discord.gg/getfusion)
 
 We strive to respond to all inquiries as quickly as possible. Thank you for your interest and support! 🌟
