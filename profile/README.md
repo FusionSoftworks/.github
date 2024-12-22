@@ -12,15 +12,6 @@ Welcome to **Fusion Softworks**! We’re a passionate team dedicated to crafting
   - Advanced scripting tools for Roblox
   - Enhanced script management and execution
   - User-friendly interface for a seamless experience
-
-### BetterNezur 🚀
-
-**BetterNezur** is a mod for Nezur that removes the restrictive key system and gets rid of intrusive ads. If you’re tired of interruptions and want a smoother experience, BetterNezur is here to help.
-
-- **Features:**
-  - Eliminate the key system
-  - Remove ads for an uninterrupted experience
-  - Simple installation and setup
  
 ## 🤝 Contact Us
 
